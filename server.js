@@ -24,3 +24,5 @@ app.use('/', productRoutes);
 app.listen(PORT, () => {  
   console.log(`Server running on port ${PORT}`);  
 });
+//MONGO_URI = mongodb+srv://digitalskathmandu:tyc4ugk2cyu3dvDm@cluster0.6mwbmab.mongodb.net/kathmandudigitals?retryWrites=true&w=majority&appName=Cluster0
+// PORT = 5000
