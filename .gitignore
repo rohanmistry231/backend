@@ -1,0 +1,59 @@
+# Node modules  
+node_modules/  
+
+# Logs  
+logs  
+*.log  
+pids  
+*.pid  
+*.seed  
+*.out  
+
+# Runtime data  
+pids/*  
+*.pid  
+
+# Coverage directory used by tools like istanbul  
+coverage/  
+
+# Build output  
+dist/  
+build/  
+
+# Dependency directories  
+jspm_packages/  
+
+# TypeScript  
+*.tsbuildinfo  
+*.ts  
+
+# MacOS specific files  
+.DS_Store  
+
+# Environment variable files  
+.env  
+.env.local  
+.env.*.local  
+
+# npm package lock  
+package-lock.json  
+
+# Yarn v2  
+.yarn/  
+
+# JetBrains IDEs  
+.idea/  
+*.iml  
+
+# Visual Studio Code  
+.vscode/  
+
+# IDE specific folders  
+*.sublime-project  
+*.sublime-workspace  
+*.code-workspace  
+
+# Others  
+npm-debug.log*  
+yarn-debug.log*  
+yarn-error.log*
